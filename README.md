@@ -20,6 +20,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 
 🐱 About Me
+
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://www.notion.so/P-O-R-T-F-O-L-I-O-172bec3a2d004a20ba859987ea1f28c1)
 
 
