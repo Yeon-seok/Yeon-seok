@@ -27,7 +27,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd9351)](https://solved.ac/yuna1do/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd9351)](https://solved.ac/abcd9351/)  
 Programmers score : 1302
 
 :raising_hand: Career
